@@ -22,7 +22,7 @@
   <br> 
 <?php 
   $serwer='localhost'; 
-  $baza='4ag1gra'; 
+  $baza='osooby'; 
   $usr='root'; 
   $pwd=''; 
   $tabela='osoby'; 
